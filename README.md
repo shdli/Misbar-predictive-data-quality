@@ -226,7 +226,33 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow shap
 
 ---
 
+## Contributors
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shdli">
+        <img src="https://github.com/shdli.png" width="100px;" alt="Shahad Alzamil"/><br/>
+        <sub><b>Shahad Alzamil</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LatifahMohmmead">
+        <img src="https://github.com/LatifahMohmmead.png" width="100px;" alt="Latifah Altamimi"/><br/>
+        <sub><b>Latifah Altamimi</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/THsaeed">
+        <img src="https://github.com/THsaeed.png" width="100px;" alt="Thuraya Alshahrani"/><br/>
+        <sub><b>Thuraya Alshahrani</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abdullahbarakh">
+        <img src="https://github.com/abdullahbarakh.png" width="100px;" alt="Abdullah Alsulami"/><br/>
+        <sub><b>Abdullah Alsulami</b></sub>
+      </a>
     </td>
   </tr>
 </table>
